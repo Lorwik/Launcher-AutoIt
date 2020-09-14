@@ -1,0 +1,8 @@
+===============================================
+==========  COMENZANDO ACTUALIZACION ==========
+============= 2020.09.14 13.10.08 =============
+===============================================
+Sistema operativo: WIN_10 WIN32_NT X64 19041
+Versión instalada del juego: 8.0.20
+Descargando información de versiones desde el servidor...
+Error al descargar el archivo de versiones.

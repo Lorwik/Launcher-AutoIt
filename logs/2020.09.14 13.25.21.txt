@@ -1,0 +1,13 @@
+===============================================
+==========  COMENZANDO ACTUALIZACION ==========
+============= 2020.09.14 13.25.21 =============
+===============================================
+Sistema operativo: WIN_10 WIN32_NT X64 19041
+Versión instalada del juego: 5.0.0
+Descargando información de versiones desde el servidor...
+     Última versión del cliente: 5.0.0
+     Última versión del launcher: 1
+
+Descargando lista de archivos y carpetas desde el servidor...
+     Lista de archivos descargada.
+     Error al descargar la lista de carpetas.
